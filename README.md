@@ -15,6 +15,8 @@ pip install pillow==6.2.0
 
 The weight is available at: 
 
+put the weight in the model directory
+
 # Usage:
 
 1.Open the model directory in Visual studio code( or any preferred source code editor)
