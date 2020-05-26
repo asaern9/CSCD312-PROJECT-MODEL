@@ -1,11 +1,19 @@
 # model
 # INSTALLATION
 
-pip install tensorflow==1.5
+pip install tensorflow==1.15
+
+pip install numpy==1.16.5
+
+pip install opencv-python
+
+pip install tqdm
+
+pip install pillow==6.2.0
 
 # DOWNLOAD 
 
-The weight is available at: https://drive.google.com/open?id=1kx_SIY8uJa6uOFoaa2M0KbaVxN6Kk4N1
+The weight is available at: 
 
 # Usage:
 
