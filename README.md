@@ -13,9 +13,11 @@ pip install pillow==6.2.0
 
 # DOWNLOAD 
 
-The weight is available at: 
+Use your UG email to access the weight.
 
-put the weight in the model directory
+The weight is available at: https://drive.google.com/file/d/1NYLJDcnH5SH4pAM8DUBcut-fEGBU9oUY/view?usp=sharing
+
+put the downloaded weight in the bc_mod directory
 
 # Usage:
 
